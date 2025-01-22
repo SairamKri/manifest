@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: saidocker59/k8s-project-repo:k8simage
+        image: saidocker59/k8s-project-repo:k8simagev2
         ports:
         - containerPort: 3000   # Use port 3000
 
